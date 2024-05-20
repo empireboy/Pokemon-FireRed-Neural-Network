@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NeuralNetworkServer.Scripts" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Layers" Type="System.String" Scope="User">
+      <Value Profile="(Default)">155,2000,2000,2000,11</Value>
+    </Setting>
+    <Setting Name="MutationStrength" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="WeightDecay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0001</Value>
+    </Setting>
+    <Setting Name="DropoutPercentage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="ReplayMemorySize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="BatchSize" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="StartReplayPriority" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="MaxErrors" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="LearningRate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+    <Setting Name="DiscountFactor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.2</Value>
+    </Setting>
+    <Setting Name="BellmanLearningRate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.01</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
